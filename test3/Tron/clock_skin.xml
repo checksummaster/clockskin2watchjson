@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Description: 3D Tron style watch face 
+     Author: Andrew Somers
+-->
+<clockskin>
+	<drawable>
+		<name>panel.png</name>
+	</drawable>
+	<drawable>
+		<name>trail.png</name>
+		<rotate>3</rotate>
+		<centerX>0</centerX>
+		<centerY>-574</centerY>
+		<angle>-10</angle>
+		<mulrotate>6</mulrotate>
+		<direction>1</direction>
+	</drawable>	
+
+	<drawable>
+		<name>light_cycle_maska.xml</name>
+		<centerX>-200</centerX>
+		<centerY>0</centerY>
+		<arraytype>9</arraytype>
+	</drawable>
+
+	<drawable>
+		<name>light_cycle_maskb.xml</name>
+		<centerX>200</centerX>
+		<centerY>0</centerY>
+		<arraytype>9</arraytype>
+	</drawable>
+	
+	<drawable>
+		<name>sec_a.xml</name>
+		<centerX>239</centerX>
+		<centerY>100</centerY>
+		<arraytype>9</arraytype>
+	</drawable>
+	<drawable>
+		<name>sec_b.xml</name>
+		<centerX>-160</centerX>
+		<centerY>100</centerY>
+		<arraytype>9</arraytype>
+	</drawable>
+	<drawable>
+		<name>signature.xml</name>
+		<centerX>194</centerX>
+		<centerY>-2</centerY>
+		<arraytype>9</arraytype>
+	</drawable>
+	<drawable>
+		<name>grid.png</name>
+	</drawable>
+
+	<drawable>
+		<name>date_a.xml</name>
+		<centerX>200</centerX>
+		<centerY>-100</centerY>
+		<arraytype>4</arraytype>
+	</drawable>
+	<drawable>
+		<name>date_b.xml</name>
+		<centerX>-100</centerX>
+		<centerY>-100</centerY>
+		<arraytype>4</arraytype>
+	</drawable>
+
+	<drawable>
+		<name>slash.xml</name>
+		<centerX>-95</centerX>
+		<centerY>-100</centerY>
+		<arraytype>9</arraytype>
+	</drawable>
+	
+	<drawable>
+		<name>date_c.xml</name>
+		<centerX>50</centerX>
+		<centerY>-100</centerY>
+		<arraytype>3</arraytype>
+	</drawable>
+	
+	<drawable>
+		<name>time_d.xml</name>
+		<centerX>-198</centerX>
+		<centerY>-21</centerY>
+		<arraytype>8</arraytype>
+	</drawable>
+	<drawable>
+		<name>time_c.xml</name>
+		<centerX>200</centerX>
+		<centerY>15</centerY>
+		<arraytype>8</arraytype>
+	</drawable>
+	<drawable>
+		<name>colon.xml</name>
+		<centerX>-60</centerX>
+		<centerY>50</centerY>
+		<arraytype>6</arraytype>
+	</drawable>
+	<drawable>
+		<name>time_b.xml</name>
+		<centerX>-60</centerX>
+		<centerY>50</centerY>
+		<arraytype>7</arraytype>
+	</drawable>
+	
+	<drawable>
+		<name>time_a.xml</name>
+		<centerX>190</centerX>
+		<centerY>75</centerY>
+		<arraytype>7</arraytype>
+	</drawable>
+	
+</clockskin>
+	

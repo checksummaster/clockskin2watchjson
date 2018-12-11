@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>grass_2.png</name>
+		<rotate>3</rotate>
+		<centerX>800</centerX>
+		<centerY>575</centerY>
+		<direction>1</direction>
+		<mulrotate>5</mulrotate>
+	</drawable>
+	<drawable>
+		<name>grass_1.png</name>
+		<rotate>3</rotate>
+		<centerX>-800</centerX>
+		<centerY>575</centerY>
+		<direction>2</direction>
+		<mulrotate>5</mulrotate>
+	</drawable>
+	<drawable>
+		<name>Sky_1.png</name>
+	</drawable>
+	<drawable>
+		<name>num_array_1.xml</name>
+		<arraytype>6</arraytype>
+		<centerY>-115</centerY>
+	</drawable>
+	<drawable>
+		<name>num_array_2.xml</name>
+		<arraytype>9</arraytype>
+		<centerX>-200</centerX>
+	</drawable>
+	<drawable>
+		<name>num_array.xml</name>
+		<arraytype>9</arraytype>
+		<centerX>124</centerX>
+		<centerY>92</centerY>
+	</drawable>
+	<drawable>
+		<name>Gold.png</name>
+		<centerY>-1</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.4.8.0'/>
+-->
+</clockskin>

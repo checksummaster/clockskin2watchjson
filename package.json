@@ -1,0 +1,15 @@
+{
+  "name": "clockskin2watchjson",
+  "version": "1.0.0",
+  "description": "Convert clockskin (no.1 clock format) to watchjson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "checksummaster@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "x2js": "^3.1.0"
+  }
+}

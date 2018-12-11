@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>watchface.png</name>
+	</drawable>
+	<drawable>
+		<name>second_2.png</name>
+		<rotate>3</rotate>
+		<centerX>-102</centerX>
+		<mulrotate>3</mulrotate>
+	</drawable>
+	<drawable>
+		<name>weekday.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>81</centerX>
+		<centerY>9</centerY>
+	</drawable>
+	<drawable>
+		<name>day.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>126</centerX>
+		<centerY>9</centerY>
+	</drawable>
+	<drawable>
+		<name>heart.xml</name>
+		<arraytype>13</arraytype>
+		<centerX>111</centerX>
+		<centerY>80</centerY>
+	</drawable>
+	<drawable>
+		<name>battery.xml</name>
+		<arraytype>14</arraytype>
+		<centerX>-104</centerX>
+		<centerY>-93</centerY>
+	</drawable>
+	<drawable>
+		<name>steps.xml</name>
+		<arraytype>12</arraytype>
+		<centerX>-112</centerX>
+		<centerY>77</centerY>
+	</drawable>
+	<drawable>
+		<name>day shadow.png</name>
+	</drawable>
+	<drawable>
+		<name>small_1.png</name>
+		<rotate>1</rotate>
+		<centerY>98</centerY>
+	</drawable>
+	<drawable>
+		<name>small.png</name>
+		<rotate>2</rotate>
+		<centerY>-93</centerY>
+		<mulrotate>2</mulrotate>
+	</drawable>
+	<drawable>
+		<name>hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>second.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>
